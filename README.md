@@ -42,7 +42,20 @@ Austin has seen explosive growth over the last several years. We will seek to an
 ![Employment_and_Labor_Force](Images/04_EmploymentAmountAndLaborForce.png)
 
 ### Demographic Data
-
+* The plots below the total population and growth of various demographics in Austin
+![Race_Demographics](Images/09_RaceDemographics.png)
+![Race_Demographic_Growth](Images/10_RaceGrowth.png)
+![Age_Demographics](Images/11_AgeDemographics.png)
+![Median_Age](Images/12_MedianAge.png)
+![Age_Demographic_Growth](Images/13_AgeGrowth.png)
+![Sex_Demographics](Images/14_SexDemographics.png)
+![Sex_Demographic_Growth](Images/15_SexDemographicsGrowth.png)
+![Housing_Demographics](Images/16_HousingUnits.png)
+![Median_Household_Income](Images/17_MedianIncome.png)
+![Poverty_&_Vacancy_Rates](Images/18_PovertyVacancy.png)
+![Average_Household_Size](Images/19_HouseholdSize.png)
+![Economic_Demographic_Growth](Images/20_EconomicGrowth.png)
+![Social_Demographic_Growth](Images/21_SocialGrowth.png)
 
 ### Population vs. Housing
 * The plot below illustrates the effect of population on home prices. As demand outstrips supply and as Austin becomes a more attractive place to live, average home prices have increased.  
