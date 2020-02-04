@@ -42,7 +42,7 @@ Austin has seen explosive growth over the last several years. We will seek to an
 ![Employment_and_Labor_Force](Images/04_EmploymentAmountAndLaborForce.png)
 
 ### Demographic Data
-* The plots below show the total population and growth of various demographics in Austin
+* The plots below show the total population and growth of various demographics in Austin.
 ![Race_Demographics](Images/09_RaceDemographics.png)
 ![Race_Demographic_Growth](Images/10_RaceGrowth.png)
 ![Age_Demographics](Images/11_AgeDemographics.png)
